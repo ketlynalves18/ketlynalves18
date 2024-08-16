@@ -1,7 +1,7 @@
 - 👋 Olá, meu nome é ketlyn
 - 👀 Sou aluna do professor nilo
 - 🌱 Sou estudante de pensamento computacional e robotica
-- 💞️ Venho pra escola, estudo como no recereio e vou embora
+- 💞️ Venho pra escola, estudo e vou embora
 
 
 <!---
